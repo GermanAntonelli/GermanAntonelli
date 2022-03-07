@@ -1,5 +1,10 @@
 ### Hi there 👋
+### Preferencia de tecnología y herramientas
 
+<img src = "https://img.shields.io/badge/-HTML5-E34F26?style=flat&logo=html5&logoColor=white"> <img src = "https://img.shields.io/badge/-CSS3 -1572B6?estilo=plano&logo=css3&logoColor=blanco">
+<img src="https://img.shields.io/badge/-Bootstrap-563D7C?style=flat&logo=bootstrap&logoColor=white">
+<img src="https://img.shields.io/badge/-JavaScript-eed718?style=flat&logo=javascript&logoColor=ffffff">
+<img src="https://img.shields.io/badge/-Sass-cc6699?style=flat&logo=sass&logoColor=ffffff">
 <!--
 **GermanAntonelli/GermanAntonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
