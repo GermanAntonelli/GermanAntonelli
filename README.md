@@ -11,7 +11,7 @@
 <img src="http://img.shields.io/badge/-VS%20Code-007ACC?style=flat&logo=visual%20studio%20code&logoColor=white">
 
 
-![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=Souravdey777&show_icons=true&hide_border=true)
+![Estadísticas de GitHub](https://github-readme-stats.vercel.app/api?username=GermanAntonelli&show_icons=true&hide_border=true)
 <!--
 **GermanAntonelli/GermanAntonelli** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
